@@ -1,0 +1,11 @@
+.Main{
+    width: 100%;
+    min-height: calc(100vh - 50px - 50px);
+    background-color: #fff;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); 
+    padding: 40px;
+    grid-gap: 40px;
+    padding-left: 150px;
+    padding-right: 150px;
+}

@@ -1,0 +1,161 @@
+.Basket{
+    width: 100%;
+    min-height: calc(100vh - 50px - 50px);
+    background-color: #fff; 
+    padding: 10px;
+}
+.Basket ul {
+    list-style-type: none;
+    margin-top: 30px;
+    padding: 0px;
+    background-color: rgba(255, 205, 205, 0.795);
+  }
+  
+  .Basket li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    background-color: rgb(255, 224, 224);
+    width: 605px;
+  }
+  
+  .Basket img {
+    max-width: 100px;
+    max-height: 100px;
+    margin-right: 50px;
+  }
+  .Basket h3{
+    margin-right: 55px;
+  }
+  
+  .Basket button {
+    cursor: pointer;
+    background-color: #ff4154;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-left: 55px;
+  }
+  
+  .Basket .total {
+    position: fixed;
+    top: 17%;
+    font-weight: bold;
+    left: 54%;
+    font-size: 30px;
+  }
+
+  .checkout-modal {
+    position: fixed;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 420px;
+    height: 390px;
+    background-color: #fff;
+    padding: 20px;
+    padding-left: 45px;
+    padding-right: 45px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    display: none; 
+    border-radius: 11px;
+  }
+  
+  .checkout-modal.show {
+    display: block; 
+  }
+  
+  .checkout-modal h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 15px;
+  }
+  
+  .checkout-modal form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+
+  
+  .checkout-modal input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+    border: 2px solid #ccc;
+  }
+  
+  .checkout-modal button {
+    cursor: pointer;
+    background-color: #fd030393;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    position: absolute;
+    bottom: 50px;
+    left: 105px;
+  }
+  
+  .checkout-modal button.close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .checkout-modal button.place-order {
+    align-self: center;
+  }
+  #zakaz{
+    cursor: pointer;
+    background-color:  rgb(255, 113, 113);
+    color: #ffffff;
+    border: none;
+    padding: 5px 20px;
+    border-radius: 11px;
+    font-size: 26px;
+    font-weight: 600;
+    position: fixed;
+    top: 28%;
+    height: 55px;
+    width: 400px;
+    left: 50.5%;
+  }
+  #cls{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 0px;
+    margin-left: 283px;
+    padding-top: 8px;
+    border-radius: 0px 10px 0px 10px;
+  }
+  #ofrm{
+    bottom: 20px;
+    left: 55px;
+    width: 200px;
+    font-size: 18px;
+  }
+  #ofrm:hover{
+    background: linear-gradient(90deg, rgb(255, 58, 58) 0%, rgb(255, 0, 76) 100%);
+  }
+  #ofrm:active{
+    border: 2px solid rgb(46, 0, 0);
+  }
+  #zakaz:hover{
+    background: linear-gradient(90deg, rgb(255, 58, 58) 0%, rgb(255, 0, 76) 100%);
+  }
+  #zakaz:active{
+    border: 2px solid rgb(37, 0, 5);
+  }
+  #oformil{
+    font-size: 20px;
+    margin-top: 30px;
+    font-weight: 500;
+  }

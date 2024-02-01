@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65baaead757d99fd5038563e"
+  },
+  "header": "Кросовки",
+  "price": 18800,
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRdG_8lXSjlF1Mxnqk0EuEK7FX48WpZJtkZqeEDD1zxhgdcxMjAnoawWGAkH78-u4OxcP3P_X2El7ivdM7Mu_3Y6yOVJAEh3w&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baee37757d99fd50385641"
+  },
+  "header": "Кросовки",
+  "price": 4500,
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRiU1O5zXrRCRsZSJ3uydz2J_B6tRPdfIBR3WT3bNRU9M2BqzLTwEmgZCLiestjxCKttXoxK6cgcCnzOKRTysGF4GzpDMhkwMogm031OLu90_nNFe_GPr8Q&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baeee2757d99fd50385642"
+  },
+  "header": "Кросовки",
+  "price": 2500,
+  "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSNCPCWKNFvXEN4ZDS7iW2EpCAZgKLchoMIzbasv3K08fZffZo0sGc4_Dvi5QwZ6arok7TAM36p7JZ4ngm1QKAouRmXNu1Kh5FOSFfMK475ntC03qFdPtLVbQ&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baef88757d99fd50385643"
+  },
+  "header": "Кросовки",
+  "price": 3000,
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRpdO5AFhobaCXKzKitcwvrRacIWxnz3Pc0BgvPNoR9oJlO4f7aCD8XfamsIWypJOrAkxe_Tw0uEOkGpTbi7yPIb32sG2m2m38SOnWE1UjF&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf057757d99fd50385644"
+  },
+  "header": "Кросовки",
+  "price": 3100,
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTRb-JKXS5wCk3yUiHh5O1eXYlKxnGitmQO8PJWfnthNduBIbCaBrV1q4LUhiTk4CdevUu_L5wgNHCDPAksPpGGBvTbno8ReX8z8TcdnsbCk7IBIfyzUX9akg&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf059757d99fd50385645"
+  },
+  "header": "Кросовки",
+  "price": 4500,
+  "image": "https://ir.ozone.ru/s3/multimedia-3/c1000/6653318439.jpg"
+},
+{
+  "_id": {
+    "$oid": "65baf05b757d99fd50385646"
+  },
+  "header": "Кросовки",
+  "price": 4555,
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSFlOhkWObg60N-yaMbux8f8iS9NxgSl9Y4JSgBS6GQAhXzVdIA8IzjI0zBsViwBNI7d-f9YgD8hAe-7-8hohwe0SK_uLCxPenvN43-5mX4FC-4cJsmEACx&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf05d757d99fd50385647"
+  },
+  "header": "Кросовки",
+  "price": 22199,
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSDvsyf_g2jdVoGtRsL1KbZgzDweuujnbxTgX1quqvbixGstHevorizCB-YZjadkqsmeQAUIgBfXgdnbOEpve_lWwILh7ZN8wTyPl5WWp4lNoYUmOoVVNsd&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf05f757d99fd50385648"
+  },
+  "header": "Кросовки",
+  "price": 5600,
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRVhTllIFF1Z5NefKQRm2snY442taY8apIt4P8vjexutLfYFYl5i0dU0HYLr8XpIaCXU1IZ0TaP6jjdU0m4kLlo4EEmDL0wvf9deo6JkHBptvtn3EmrLQ-nOA&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf060757d99fd50385649"
+  },
+  "header": "Кросовки",
+  "price": 8700,
+  "image": "https://static.rendez-vous.ru/files/catalog_models/resize_640x630/3/3330848_krossovki_puma_380462_belyy_tekstil_.JPG"
+}]
