@@ -107,7 +107,6 @@ app.post('/user/changeEmail', async (req, res) => {
             return
         }
 
-        //duplicate key
         if (err && err.code === 11000) {
             res.json({
                 message: 'Попытка создания дубликата!'
